@@ -17,8 +17,7 @@ At Macro Matrix, we blend creativity with technology to deliver unparalleled res
 
 Ready to take your digital presence to the next level? Reach out to us today and let's discuss how we can bring your vision to life!
 
-- **Email:** info@macromatrix.com
-- **Phone:** +1 (555) 123-4567
-- **Website:** [www.macromatrix.com](https://www.macromatrix.com)
+- **Email:** macromatrix.dev@gmail.com
+- **Website:** [www.macromatrix.com](https://macromatrix-dev.github.io/macromatrix-dev/)
 
 Join us on this exciting journey of innovation and creativity. Welcome to Macro Matrix!
